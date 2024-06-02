@@ -19,11 +19,11 @@ The population characteristics for the three attributes are provided in the tabl
 The provided sample dataset of 200 individuals is representative of the population whose characteristics are detailed above. The analysis involves comparing the frequencies of different categories within the sample to those in the population.
 
 ## Steps to Analyze
-# Load the Dataset: Import the dataset and inspect the structure.
-# Data Cleaning: Ensure the dataset has no missing or inconsistent values.
-# Categorical Mapping: Map categorical values to their respective descriptions.
-# Frequency Calculation: Calculate the frequency of each category in the sample dataset.
-# Comparison: Compare these frequencies with the population characteristics.
+### Load the Dataset: Import the dataset and inspect the structure.
+### Data Cleaning: Ensure the dataset has no missing or inconsistent values.
+### Categorical Mapping: Map categorical values to their respective descriptions.
+### Frequency Calculation: Calculate the frequency of each category in the sample dataset.
+### Comparison: Compare these frequencies with the population characteristics.
 
 ## Conclusion
 This project aims to provide insights into how a sample dataset compares to the overall population characteristics. The analysis involves mapping categorical data, calculating frequencies, and visually comparing the sample to the population. Such comparisons are crucial for understanding the representativeness of the sample and making inferences about the broader population.
